@@ -10,10 +10,10 @@ Alina Vinogradova, 20yo
 
 <div align="center">
  
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/jsemaljaa?color=236ad3&style=social&logo=github&label=Follow"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/jsemaljaa?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
  <br>
- <a href="https://www.linkedin.com/in/jsemaljaa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=social&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
- <a href="https://discordapp.com/users/296321753339265024"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=social&logo=discord&logoColor=white" alt="Discord"></a>
+ <a href="https://www.linkedin.com/in/jsemaljaa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+ <a href="https://discordapp.com/users/296321753339265024"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
  <a href="mailto:jsemaljaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
  [![Stats](https://github-readme-stats.vercel.app/api?username=jsemaljaa&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://github.com/jsemaljaa)
