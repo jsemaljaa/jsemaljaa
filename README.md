@@ -10,7 +10,7 @@ Alina Vinogradova, 20yo
 
 <div align="center">
  
- <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/jsemaljaa?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+ <img alt="followers" src="https://img.shields.io/github/followers/madushadhanushka?label=Followers&style=social">
  <a href="https://www.linkedin.com/in/jsemaljaa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  
  [![Stats](https://github-readme-stats.vercel.app/api?username=jsemaljaa&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://github.com/jsemaljaa)
