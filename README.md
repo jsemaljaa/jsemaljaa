@@ -22,4 +22,4 @@ Alina Vinogradova, 20yo
  
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=jsemaljaa&color=black" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=jsemaljaa&color=darkblue" alt="watching_count" />
