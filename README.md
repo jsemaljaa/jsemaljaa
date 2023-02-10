@@ -1,6 +1,9 @@
 Alina Vinogradova, 20yo
+<div align="center">
+ 
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/jsemaljaa?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
+ </div>
 
 * Computer Science student at Brno Univerity of Technology, Faculty of Information Technology
 * Information Security team SPOTLIGHT ex-member (SPOTLIGHT, 2017-2019)
