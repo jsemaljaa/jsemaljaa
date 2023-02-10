@@ -20,7 +20,7 @@ Alina Vinogradova, 20yo
  <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsemaljaa&langs_count=10&layout=compact&theme=radical&hide_border=true&disable_animations=true)](https://github.com/jsemaljaa/)
  
- <img src="https://komarev.com/ghpvc/?username=jsemaljaa&color=lightgrey" alt="lightgrey" />
+ <img src="https://komarev.com/ghpvc/?username=jsemaljaa&color=lightgrey&style=for-the-badge" alt="lightgrey" />
  
 </div>
 
