@@ -16,9 +16,9 @@ Alina Vinogradova, 20yo
  <a href="https://discordapp.com/users/296321753339265024"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
  <a href="mailto:jsemaljaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
- [![Stats](https://github-readme-stats.vercel.app/api?username=jsemaljaa&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://github.com/jsemaljaa)
+ [![Stats](https://github-readme-stats.vercel.app/api?username=jsemaljaa&show_icons=true&theme=synthwave&count_private=true&hide_border=true)](https://github.com/jsemaljaa)
  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsemaljaa&langs_count=10&layout=compact&theme=radical&hide_border=true&disable_animations=true)](https://github.com/jsemaljaa/)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsemaljaa&langs_count=10&layout=compact&theme=synthwave&hide_border=true&disable_animations=true)](https://github.com/jsemaljaa/)
  
  <img src="https://komarev.com/ghpvc/?username=jsemaljaa&color=lightgrey&style=for-the-badge" alt="lightgrey" />
  
