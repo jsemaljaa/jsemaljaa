@@ -25,4 +25,3 @@ Alina Vinogradova, 20yo
  
 </div>
 
-
