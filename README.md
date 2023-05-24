@@ -1,4 +1,4 @@
-Alina Vinogradova, 20yo
+Alina Vinogradova, 21yo
 
 
 * Computer Science student at Brno Univerity of Technology, Faculty of Information Technology (Brno, Czech republic)
