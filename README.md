@@ -3,7 +3,7 @@ Alina Vinogradova, 21yo
 
 * Computer Science student at Brno Univerity of Technology, Faculty of Information Technology (Brno, Czech republic)
 * Software Engineer at University Hospital (Brno, Czech republic)
-* Information Security team SPOTLIGHT ex-member (SPOTLIGHT, 2017-2019)
+* Information Security high school team SPOTLIGHT ex-member (Vladimir, 2017-2019)
 * Winner of Regional Junior Information Security Competition @ Vladimir State University, Russia (2017)
 * Finalist of Russian National Junior Information Security Competition @ Bauman Moscow State University, Russia (2017)
 * Finalist of Russian National Junior Information Security Competition @ Innopolis University, Russia (2019)
