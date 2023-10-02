@@ -6,7 +6,8 @@ Alina Vinogradova, 21yo
 * Winner of Regional Junior Information Security Competition @ Vladimir State University, Russia (2017)
 * Finalist of Russian National Junior Information Security Competition @ Bauman Moscow State University, Russia (2017)
 * Finalist of Russian National Junior Information Security Competition @ Innopolis University, Russia (2019)
-* **Languages I speak**:
+
+**Languages I speak**:
   * russian *(native)*
   * english *(C1)*
   * czech *(B2)*
