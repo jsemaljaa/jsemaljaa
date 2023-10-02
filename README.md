@@ -1,7 +1,7 @@
 My name is Alina Vinogradova and I am currently pursuing my Bachelor in Information Technology at [Brno University of Technology](https://www.fit.vut.cz/.en)
 
 Some of my achievements: 
-* Information Security high school team SPOTLIGHT ex-member (Russia, 2017-2019)
+* Information Security high school team SPOTLIGHT member (Russia, 2017-2019)
 * Winner of Regional Junior Information Security Competition @ Vladimir State University, Russia (2017)
 * Finalist of Russian National Junior Information Security Competition @ Bauman Moscow State University, Russia (2017)
 * Finalist of Russian National Junior Information Security Competition @ Innopolis University, Russia (2019)
