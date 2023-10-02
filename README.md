@@ -1,8 +1,4 @@
-<div align="center">
-**About me**
 My name is Alina Vinogradova and I am currently pursuing my Bachelors in Information Technology at [Brno University of Technology](https://www.fit.vut.cz/.en)
-</div>
-
 
 
 * Computer Science student at Brno Univerity of Technology, Faculty of Information Technology (Brno, Czech Republic)
