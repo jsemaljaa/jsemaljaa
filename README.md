@@ -20,7 +20,7 @@ Some of my achievements:
  <br>
  [![Stats](https://github-readme-stats.vercel.app/api?username=jsemaljaa&show_icons=true&theme=nord&count_private=true&hide_border=true)](https://github.com/jsemaljaa)
  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsemaljaa&langs_count=10&layout=compact&theme=synthwave&hide_border=true&disable_animations=true)](https://github.com/jsemaljaa/)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsemaljaa&langs_count=10&layout=compact&theme=nord&hide_border=true&disable_animations=true)](https://github.com/jsemaljaa/)
  
  <img src="https://komarev.com/ghpvc/?username=jsemaljaa&color=lightgrey&style=for-the-badge" alt="lightgrey" />
  
