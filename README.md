@@ -8,9 +8,9 @@ Some of my achievements:
 
 **Languages I speak**:
   * Russian *(native)*
-  * English 
-  * Czech
-  * *currently learning German*
+  * English (C1)
+  * Czech (B2)
+  * German (A1)
 
 <div align="center">
   
