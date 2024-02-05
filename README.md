@@ -10,7 +10,7 @@ Some of my achievements:
   * Russian *(native)*
   * English (C1)
   * Czech (B2)
-  * German (A1)
+  * actively learning German
 
 <div align="center">
   
