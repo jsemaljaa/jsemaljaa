@@ -7,10 +7,10 @@ Some of my achievements:
 * Finalist of Russian National Junior Information Security Competition @ Innopolis University, Russia (2019)
 
 **Languages I speak**:
-  * Russian *(native)*
-  * English (C1)
-  * Czech (B2)
-  * actively learning German
+  * Russian *(native speaker)*
+  * English (Advanced to Proficient level)
+  * Czech (Upper intermediate to Advanced level)
+  * German (Beginner to Elementary level)
 
 <div align="center">
   
