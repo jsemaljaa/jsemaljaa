@@ -1,4 +1,4 @@
-My name is Alina Vinogradova and I am currently pursuing my Bachelor in Information Technology at [Brno University of Technology](https://www.fit.vut.cz/.en)
+I'm Alina Vinogradova, a recent alumna of [Brno University of Technology](https://www.fit.vut.cz/.en), where I completed my Bachelor's in Information Technology. 
 
 Some of my achievements: 
 * Information Security high school team SPOTLIGHT member (Russia, 2017-2019)
