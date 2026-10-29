@@ -17,11 +17,12 @@ Some of my achievements:
  <a href="https://www.linkedin.com/in/jsemaljaa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  <a href="https://discordapp.com/users/296321753339265024"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
  <br>
- [![Stats](https://github-stats-extended.vercel.app/api?username=jsemaljaa&show_icons=true&theme=nord&count_private=true&hide_border=true)](https://github.com/jsemaljaa)
- <br>
-  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jsemaljaa&langs_count=10&layout=compact&theme=nord&hide_border=true&disable_animations=true)](https://github.com/jsemaljaa/)
+ [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jsemaljaa&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=noctis_minimus)](https://github.com/jsemaljaa)
+
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jsemaljaa&layout=pie&langs_count=6&theme=noctis_minimus)](https://github.com/jsemaljaa)
  
  <img src="https://komarev.com/ghpvc/?username=jsemaljaa&color=lightgrey&style=for-the-badge" alt="lightgrey" />
+
  
 </div>
 
